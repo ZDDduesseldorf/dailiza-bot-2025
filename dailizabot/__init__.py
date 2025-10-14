@@ -1,5 +1,5 @@
 """dailiza-bot
-By DAISY-class-of-2023
+By DAISY-class-of-2025
 
 Very simple rule-based chatbot, Eliza-style, speaking German."""
 
