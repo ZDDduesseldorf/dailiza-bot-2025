@@ -19,8 +19,9 @@ psychobabble = [
 
     [r"wetter",
     ["Sonnig",
-    "Regnerisch"]]
+    "Regnerisch"]],
 
-
-
+    [r"Magst du (.*)",
+    ["Ja voll!",
+    "Nein, überhaupt nicht"]]
 ]
