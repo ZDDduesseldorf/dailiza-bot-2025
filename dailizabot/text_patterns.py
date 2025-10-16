@@ -13,4 +13,8 @@ psychobabble = [
     "Würde {0} dir denn wirklich helfen?",
     "Bist du sicher, dass du {0} brauchst?"]],
 
+    [r"was ist deine lieblingsfarbe",
+    ["ich mag alle Farben, welche Farbe findest du am besten?",
+    "blau finde ich besonders toll, wie sieht's bei dir aus?"]]
+
 ]
