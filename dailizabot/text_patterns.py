@@ -15,6 +15,12 @@ psychobabble = [
 
     [r"was ist deine lieblingsfarbe",
     ["ich mag alle Farben, welche Farbe findest du am besten?",
-    "blau finde ich besonders toll, wie sieht's bei dir aus?"]]
+    "blau finde ich besonders toll, wie sieht's bei dir aus?"]],
+
+    [r"wetter",
+    ["Sonnig",
+    "Regnerisch"]]
+
+
 
 ]
