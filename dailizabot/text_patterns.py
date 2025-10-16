@@ -7,7 +7,7 @@ psychobabble = [
     [r"hallo|hi|hey|guten tag|servus|moin",
      ["Hallo! Schön, dass du da bist.",
       "Hey! Wie geht’s dir heute?",
-      "Hi! Worüber möchtest du sprechen?"]]
+      "Hi! Worüber möchtest du sprechen?"]],
 
     [r"geht.{0,5}s.{0,5}dir",
     ["Danke. Mir geht es gut und dir?",
