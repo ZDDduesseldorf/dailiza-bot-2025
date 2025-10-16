@@ -14,6 +14,11 @@ psychobabble = [
     "Sehr gut, danke. Und wie läuft's bei dir?",
     "Ich kann nicht klagen. Was ist mit dir?"]],
 
+    [r"ich fühle mich (.*)",
+     ["Warum fühlst du dich {0}?",
+      "Was löst dieses Gefühl von {0} in dir aus?",
+      "Wie gehst du normalerweise damit um, dich {0} zu fühlen?"]],
+
     [r"Ich brauche (.*)",
     ["Warum brauchst du {0}?",
     "Würde {0} dir denn wirklich helfen?",
