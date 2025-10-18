@@ -16,7 +16,9 @@ psychobabble = [
     # Eigene
     [r"Ich habe (.*)" , ["Warum hast du {0}?", "Wie hast du {0}?", "Wofür hast du {0}?"]],
 
-    [r"Ich bin (.*)" , ["Bist du {0}, oder ist {0} du?", "Bist du {0}, oder fühlst du dich {0}?", "Denkst du ich bin auch {0}?"]]
+    [r"Ich bin (.*)" , ["Bist du {0}, oder ist {0} du?", "Bist du {0}, oder fühlst du dich {0}?", "Denkst du ich bin auch {0}?"]],
+
+    [r"Ich finde (.*)", ["Warum findest du {0}?", "Bist du der einzige der {0} findet?", "Gibt es einen Grund, warum du {0} findest?"]]
 
 ]
 #python -m dailizabot.main
