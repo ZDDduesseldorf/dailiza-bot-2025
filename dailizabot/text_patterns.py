@@ -13,4 +13,8 @@ psychobabble = [
     "Würde {0} dir denn wirklich helfen?",
     "Bist du sicher, dass du {0} brauchst?"]],
 
+    # Eigene
+    [r"Ich habe (.*)" , ["Warum hast du {0}?", "Wie hast du {0}?", "Wofür hast du {0}?"]]
+
 ]
+#python -m dailizabot.main
