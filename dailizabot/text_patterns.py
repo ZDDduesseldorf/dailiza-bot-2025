@@ -23,4 +23,9 @@ psychobabble = [
       "Seit wann bist du {0}?",
       "Was glaubst du, macht dich {0}?"]],
 
+    [r"\bweil (.+)",
+     ["Verstehe—weil {0}. Was bedeutet das konkret für dich?",
+      "Wenn es {0} ist, wie gehst du damit um?",
+      "weil {0}? Erzähl mir mehr darüber."]],
+
 ]
