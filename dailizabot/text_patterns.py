@@ -18,4 +18,9 @@ psychobabble = [
       "Hey! Was gibt’s?",
       "Hi! Womit kann ich dich unterstützen?"]],
 
+    [r"\bich (?:bin|fühle mich) (.*)",
+     ["Warum fühlst du dich {0}?",
+      "Seit wann bist du {0}?",
+      "Was glaubst du, macht dich {0}?"]],
+
 ]
