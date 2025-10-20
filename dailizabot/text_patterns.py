@@ -13,4 +13,12 @@ psychobabble = [
     "Würde {0} dir denn wirklich helfen?",
     "Bist du sicher, dass du {0} brauchst?"]],
 
+    [r"[Ll]+eb[st]* du",
+    ["Warum interessiert dich das?",
+     "Nur in deinen Träumen",
+     "Vielleicht irgendwann",
+     "Wer weiß ;)",
+     "Die Frage is eher, ob du lebst.."
+     ]],
+
 ]
