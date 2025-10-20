@@ -21,4 +21,10 @@ psychobabble = [
      "Die Frage is eher, ob du lebst.."
      ]],
 
+     [r"[Ii]+ch (mag|liebe) (.*)",
+     ["Warum magst du {1}?",
+      "Ich mag {1} nicht sehr besonders",
+      "Ich LIEBE {1}! Erzähl mir mehr.",
+      ]],
+
 ]
