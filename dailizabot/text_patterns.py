@@ -18,4 +18,9 @@ psychobabble = [
       "What is unclear in task number {0}?",
       "Do you need more materials for the task number {0}?"]],
 
+    [r"Call me (.*)",
+     ["Okay {0}, how can i help you?",
+      "Perfect {0}, how are you today?",
+      "Got it! {0}, can i help you somehow?"]],
+
 ]
