@@ -19,5 +19,9 @@ psychobabble = [
 
     [r"ich bin (.*) müde",
     ["Warum bist du %1 müde?",
-    "Ich hoffe, du kannst dich bald ausruhen."]] 
+    "Ich hoffe, du kannst dich bald ausruhen."]], 
+     
+    [r"ich kann nicht (.*)",
+    ["Wieso kannst du {0} nicht tun?",
+    "Du wirst es schaffen, {0} zu tun, wenn du es wirklich willst."]],
 ]
