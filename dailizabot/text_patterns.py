@@ -13,4 +13,9 @@ psychobabble = [
     "Würde {0} dir denn wirklich helfen?",
     "Bist du sicher, dass du {0} brauchst?"]],
 
+    [r"Help me with task number (\d+)",
+     ["Do you need an answer for the task number {0}?",
+      "What is unclear in task number {0}?",
+      "Do you need more materials for the task number {0}?"]],
+
 ]
