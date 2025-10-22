@@ -23,4 +23,9 @@ psychobabble = [
       "Perfect {0}, how are you today?",
       "Got it! {0}, can i help you somehow?"]],
 
+    [r"Please remind me to (.*) at (\d+)",
+     ["No problem! Noted that you have to {0} at {1}",
+      "Will remind you that you have to {0} at {1}",
+      "Okay, at {1} you have to {0}"]]
+
 ]
