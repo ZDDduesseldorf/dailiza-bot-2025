@@ -17,4 +17,9 @@ psychobabble = [
     ["Warum fühlst du dich {0}?",
     "Wie lange fühlst du dich schon {0}?",
     "Was denkst du, warum du dich {0} fühlst?"]],
+
+    [r"Ich mag (.*)",
+    ["Warum magst du {0}?",
+    "Was genau magst du an {0}?",
+    "Schon lange oder erst seit kurzem magst du {0}?"]],
 ]
