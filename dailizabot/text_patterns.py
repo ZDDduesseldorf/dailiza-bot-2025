@@ -15,5 +15,9 @@ psychobabble = [
 
     [r"ich studiere (.*)",
     ["Wie findest du das Studium %1?",
-    "Interessant. %1 ist sicher ein anspruchsvolles Fach."]]
+    "Interessant. %1 ist sicher ein anspruchsvolles Fach."]],  
+
+    [r"ich bin (.*) müde",
+    ["Warum bist du %1 müde?",
+    "Ich hoffe, du kannst dich bald ausruhen."]] 
 ]
