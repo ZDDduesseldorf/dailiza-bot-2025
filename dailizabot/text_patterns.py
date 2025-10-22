@@ -22,4 +22,9 @@ psychobabble = [
     ["Warum magst du {0}?",
     "Was genau magst du an {0}?",
     "Schon lange oder erst seit kurzem magst du {0}?"]],
+
+    [r"Ich habe Angst(.*)",
+    ["Wovor hast du Angst {0}?",
+    "Wie oft hast du Angst {0}?",
+    "Was hilft dir, wenn du Angst {0} hast?"]],
 ]
