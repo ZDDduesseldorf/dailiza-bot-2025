@@ -13,4 +13,15 @@ psychobabble = [
     "Würde {0} dir denn wirklich helfen?",
     "Bist du sicher, dass du {0} brauchst?"]],
 
+    [r"ich studiere (.*)",
+    ["Wie findest du das Studium %1?",
+    "Interessant. %1 ist sicher ein anspruchsvolles Fach."]],  
+
+    [r"ich bin (.*) müde",
+    ["Warum bist du %1 müde?",
+    "Ich hoffe, du kannst dich bald ausruhen."]], 
+     
+    [r"ich kann nicht (.*)",
+    ["Wieso kannst du {0} nicht tun?",
+    "Du wirst es schaffen, {0} zu tun, wenn du es wirklich willst."]],
 ]
