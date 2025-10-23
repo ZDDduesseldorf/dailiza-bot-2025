@@ -17,4 +17,10 @@ psychobabble = [
      ["Warum fühlst du dich {1}?",
       "geh zum Psychologen damit du dich nicht mehr {1} fühlst"]],
 
+    [r"(wie ist das wetter)",
+     ["wechselhaft", 
+     "sonnig", 
+     "regnerisch"]],
+
+
 ]
