@@ -13,4 +13,9 @@ psychobabble = [
     "Würde {0} dir denn wirklich helfen?",
     "Bist du sicher, dass du {0} brauchst?"]],
 
+    [r"was macht dir gute laune",
+    ["Kaffe macht mir gute Laune! Und dir?",
+    "Ich freue mich immer, wenn ich helfen kann",
+    "Gutes Essen erfreut mich sehr!"]],
+    
 ]
