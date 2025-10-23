@@ -18,4 +18,8 @@ psychobabble = [
       "Ich habe keinen Namen",
       "Nenn mich, wie du magst."]],
 
+    [r"(Tschüss|Auf Wiedersehen|Tschau)",
+     ["Tschüss!",
+      "Auf Wiedersehen! Bis zum nächsten Mal.",
+      "Tschau, War schön, mit dir zu sprechen."]]
 ]
