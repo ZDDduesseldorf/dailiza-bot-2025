@@ -18,7 +18,12 @@ psychobabble = [
     [r"(ich vermisse) (.*)",
      ["was vermisst du an {1}?", 
       "es ist wichtig , dass du dich so fühlst wie du dich ",
-      "{1} ist dir vielleicht wichtig ,aber was dir wichtig ist , ist nicht immer auch = git für dich"]],
+      "{1} ist dir vielleicht wichtig ,aber was dir wichtig ist , ist nicht immer auch = gut für dich"]],
 
-    
+   [r"Ich verschiebe immer meine Hausaufgaben ,was sind deine Tipps",
+    ["Mach deine Aufgaben !!!!",
+    "Heul nicht mach jetzt.",
+    "... Vaters ganzer stolz..."]],
+
+      
 ]
