@@ -13,4 +13,9 @@ psychobabble = [
     "Würde {0} dir denn wirklich helfen?",
     "Bist du sicher, dass du {0} brauchst?"]],
 
+    [r"geht.{0,5}s.{0,5} (.*)",
+    ["Freut mich zu hören, dass es dir {0} geht!",
+    "Schade Mamelade.",
+    "Luegner! Dir geht es nicht {0}."]],
+
 ]
