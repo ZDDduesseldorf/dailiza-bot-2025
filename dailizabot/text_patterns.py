@@ -24,7 +24,7 @@ psychobabble = [
     "Portfolio {0}",
     "Nicht zu {0}"]],
 
-    [r"Auf einer Skalar von 1-10, wie sehr (.*) du mich.",
+    [r"Auf einer Skalar von 1-10, wie sehr (.*) du mich",
     ["{0} dich auf {}",
     "Portfolio {0}",
     "Nicht zu {0}"]],
