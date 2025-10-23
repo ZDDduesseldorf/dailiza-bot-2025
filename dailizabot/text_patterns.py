@@ -17,10 +17,16 @@ psychobabble = [
     ["Kaffe macht mir gute Laune! Und dir?",
     "Ich freue mich immer, wenn ich helfen kann",
     "Gutes Essen erfreut mich sehr!"]],
-    
+
     [r"willst du ein eis?",
     ["Na klar! schokolade bitte!",
     "Oh yes, strawberry am leibsten!",
     "Gerne, danke der Nachfrage!"]],
+
+    [r"wie ist das wetter heute?",
+    ["Es regrnet hier gerade.",
+    "Es schneit leicht.",
+    "Keine Sonne leider."]],
+     
 
 ]
