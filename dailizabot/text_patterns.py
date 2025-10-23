@@ -1,9 +1,6 @@
-import numpy as np
-
 """
 Here we collect the chatbot text patterns.
 """
-zuffalszahl = np.random.randint(0, 10)
 
 psychobabble = [
     [r"geht.{0,5}s.{0,5}dir",
@@ -27,7 +24,7 @@ psychobabble = [
     "Nicht zu {0}"]],
 
     [r"Auf einer Skalar von 1-10, wie sehr (.*) du mich",
-    ["{0} dich auf {zuffalszahl}",
+    ["Du bist uninteressant",
     "Garnicht",
     "Keine Skalar der Welt kann diesen Wert ermessen oder erfassen"]],
 
