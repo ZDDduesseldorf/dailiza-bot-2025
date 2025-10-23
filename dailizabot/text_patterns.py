@@ -18,4 +18,9 @@ psychobabble = [
     "Ich freue mich immer, wenn ich helfen kann",
     "Gutes Essen erfreut mich sehr!"]],
     
+    [r"willst du ein eis?",
+    ["Na klar! schokolade bitte!",
+    "Oh yes, strawberry am leibsten!",
+    "Gerne, danke der Nachfrage!"]],
+
 ]
