@@ -22,4 +22,9 @@ psychobabble = [
      ["Tschüss!",
       "Auf Wiedersehen! Bis zum nächsten Mal.",
       "Tschau, War schön, mit dir zu sprechen."]]
+
+    [r"Danke",
+     ["Gern geschehen!",
+      "Kein Problem!",
+      "Sehr gern!"]],
 ]
