@@ -25,5 +25,8 @@ psychobabble = [
     "Heul nicht mach jetzt.",
     "... Vaters ganzer stolz..."]],
 
-      
+    [r"warum (.*)",
+     ["KEINE AHNUNG MEINE ANTWORTEN SIND BEGRENZT LIES EIN BUCH ODER SO", 
+     "千里之行，始于足下。",
+     "Vllt weil sie Sahra eine 1 geben sollten  "]],
 ]
