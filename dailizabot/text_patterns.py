@@ -18,4 +18,9 @@ psychobabble = [
     "Schade Mamelade.",
     "Luegner! Dir geht es nicht {0}."]],
 
+    [r"Was gibt es zu (.*)",
+    ["Fisch {0}",
+    "Portfolio {0}",
+    "Nicht zu {0}"]],
+
 ]
