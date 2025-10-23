@@ -22,5 +22,9 @@ psychobabble = [
      "sonnig", 
      "regnerisch"]],
 
+     [r"mein Name ist (.*)",
+      ["freut mich dich kennenzulernen, {0}",
+       "{0} ist aber ein cooler Name",
+       "{0}?! Du schuldest mir Geld!"]]
 
 ]
