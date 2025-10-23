@@ -2,6 +2,7 @@
 Here we collect the chatbot text patterns.
 """
 
+
 psychobabble = [
     [r"geht.{0,5}s.{0,5}dir",
     ["Danke. Mir geht es gut und dir?",
@@ -20,6 +21,11 @@ psychobabble = [
 
     [r"Was gibt es zu (.*)",
     ["Fisch {0}",
+    "Portfolio {0}",
+    "Nicht zu {0}"]],
+
+    [r"Auf einer Skalar von 1-10, wie sehr (.*) du mich.",
+    ["{0} dich auf {}",
     "Portfolio {0}",
     "Nicht zu {0}"]],
 
