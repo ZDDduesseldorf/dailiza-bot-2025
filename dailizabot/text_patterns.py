@@ -13,4 +13,12 @@ psychobabble = [
     "Würde {0} dir denn wirklich helfen?",
     "Bist du sicher, dass du {0} brauchst?"]],
 
+
+
+    [r"(ich vermisse) (.*)",
+     ["was vermisst du an {1}?", 
+      "es ist wichtig , dass du dich so fühlst wie du dich ",
+      "{1} ist dir vielleicht wichtig ,aber was dir wichtig ist , ist nicht immer auch = git für dich"]],
+
+    
 ]
