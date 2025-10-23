@@ -13,4 +13,9 @@ psychobabble = [
     "Würde {0} dir denn wirklich helfen?",
     "Bist du sicher, dass du {0} brauchst?"]],
 
+    [r"Wie heißt du?",
+     ["Nenn mich Daliza.",
+      "Ich habe keinen Namen",
+      "Nenn mich, wie du magst."]],
+
 ]
