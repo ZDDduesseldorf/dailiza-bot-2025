@@ -16,7 +16,13 @@ psychobabble = [
     [r"Magst du (.*)\?",
     ["Ja, ich liebe {0}!",
      "Bahhhh ich hasse {0}!",
-     "Was ist {0}?"]]
+     "Was ist {0}?"]],
+    
+    [r"(?i)wird [a-z]* Wetter",
+     ["Es wird sonnig.",
+      "Es wird wolkig.",
+      "Es wird regnerisch.",
+      "Es wird stürmisch."]]
     
 
 ]
