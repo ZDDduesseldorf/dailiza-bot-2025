@@ -13,4 +13,24 @@ psychobabble = [
     "Würde {0} dir denn wirklich helfen?",
     "Bist du sicher, dass du {0} brauchst?"]],
 
+    [r"[Ll]+eb[st]* du",
+    ["Warum interessiert dich das?",
+     "Nur in deinen Träumen",
+     "Vielleicht irgendwann",
+     "Wer weiß ;)",
+     "Die Frage is eher, ob du lebst.."
+     ]],
+
+    [r"[Ii]*ch (mag|liebe) (.*)",
+     ["Warum magst du {1}?",
+      "Ich mag {1} nicht sehr besonders",
+      "Ich LIEBE {1}! Erzähl mir mehr.",
+     ]],
+    
+    [r"[Ww]+ie hoch liegen die [Cc]*hancen[,]*",
+     ["50/50", 
+      "Sehr hoch", 
+      "1000%", 
+      "0.01%", 
+      "Ich verrate es dir lieber nicht.."]]
 ]
