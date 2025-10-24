@@ -22,7 +22,12 @@ psychobabble = [
      ["Es wird sonnig.",
       "Es wird wolkig.",
       "Es wird regnerisch.",
-      "Es wird stürmisch."]]
+      "Es wird stürmisch."]],
+    
+    [r"[m,M]ir (?:geht(s|'s| es)) (auch )?gut",
+     ["Das ist schön.",
+     "Das freut mich zu hören.",
+     "Fantastisch!"]]
     
 
 ]
