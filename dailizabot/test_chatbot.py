@@ -44,4 +44,4 @@ def test_wie_ist_das_wetter():
     ]
     
     response = dailiza_answer(user_input)
-    assert response in expected_reposnses, f"Unexpected response: {response}"
+    assert response in expected_reposnses, f"Unexpected response: {response}" 
