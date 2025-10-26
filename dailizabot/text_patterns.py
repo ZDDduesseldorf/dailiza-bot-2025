@@ -16,13 +16,18 @@ psychobabble = [
     "Würde {0} dir denn wirklich helfen?",
     "Bist du sicher, dass du {0} brauchst?"]],
 
-    [r"Was kannst du (.*)",
+    [r"Was kannst du(.*)",
     ["Ich kann mit dir über verschiedene Themen sprechen und dir zuhören.",
      "Ich kann mit dir über vieles sprechen.",
      "Da ich ein Chatbot bin, kann ich nur mit dir sprechen.",
      "Ich kann fast alles - was willst du eigentlich??"]],
 
     [r"(random|zufällige)\s*zahl",
-    [f"Hier ist deine Randomzahl: {random.randint(1,100)}"]]
+    [f"Hier ist deine Randomzahl: {random.randint(1,100)}"]],
+
+    [r"welche\s+sprache.*du*",
+    ["Ich kann Deutsch!!",
+     "Deutsch ist meine Muttersprache",
+     "Wir sprechen beide Deutsch, also lass uns auf Deutsch sprechen."]]
 
 ]
