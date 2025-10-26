@@ -13,4 +13,12 @@ psychobabble = [
     "Würde {0} dir denn wirklich helfen?",
     "Bist du sicher, dass du {0} brauchst?"]],
 
+    [r'hallo|hi',
+    ["Hallo! Wie geht es dir?",]],
+
+    [r'.*(heisst du|dein name).*',
+    ["Ich heisse Dailiza, nach meiner Schöpferin Eliza.", "Du kannst mich Dailiza nennen."]],
+
+    [r'.*(wetter|sonne|regnet).*',
+    ["Ich bin nur ein einfacher Chatbot, ich kann dir das Wetter leider nicht sagen.", "Das Wetter interessiert mich nicht, lass uns über etwas anderes sprechen."]]
 ]
