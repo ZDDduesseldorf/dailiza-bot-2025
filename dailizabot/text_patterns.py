@@ -2,6 +2,9 @@
 Here we collect the chatbot text patterns.
 """
 
+import random
+
+
 psychobabble = [
     [r"geht.{0,5}s.{0,5}dir",
     ["Danke. Mir geht es gut und dir?",
@@ -17,6 +20,9 @@ psychobabble = [
     ["Ich kann mit dir über verschiedene Themen sprechen und dir zuhören.",
      "Ich kann mit dir über vieles sprechen.",
      "Da ich ein Chatbot bin, kann ich nur mit dir sprechen.",
-     "Ich kann fast alles - was willst du eigentlich??"]]
+     "Ich kann fast alles - was willst du eigentlich??"]],
+
+    [r"(random|zufällige)\s*zahl",
+    [f"Hier ist deine Randomzahl: {random.randint(1,100)}"]]
 
 ]
