@@ -13,4 +13,7 @@ psychobabble = [
     "Würde {0} dir denn wirklich helfen?",
     "Bist du sicher, dass du {0} brauchst?"]],
 
+    [r'hallo|hi',
+    ["Hallo! Wie geht es dir?",]]
+
 ]
