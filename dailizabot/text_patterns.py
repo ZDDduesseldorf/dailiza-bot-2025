@@ -18,4 +18,8 @@ psychobabble = [
     "Auf Wiedersehen!",
     "Bis bald!"]], 
 
+    [r"Ich will (.*)",
+    ["Was würde es dir bringen, {0} zu haben?",
+    "Warum willst du {0}?"]]
+
 ]
