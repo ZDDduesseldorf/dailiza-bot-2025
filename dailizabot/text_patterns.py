@@ -20,6 +20,10 @@ psychobabble = [
 
     [r"Ich will (.*)",
     ["Was würde es dir bringen, {0} zu haben?",
-    "Warum willst du {0}?"]]
+    "Warum willst du {0}?"]],
+
+    [r"Ich heiße (.*)",
+    ["Schön, dich kennenzulernen, {0}. Wie kann ich dir helfen?",
+    "Freut mich, {0}. Was möchtest du besprechen?"]]
 
 ]
