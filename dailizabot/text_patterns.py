@@ -13,9 +13,9 @@ psychobabble = [
     "Würde {0} dir denn wirklich helfen?",
     "Bist du sicher, dass du {0} brauchst?"]],
 
-    [r"(tschüss)",
+    [r"(tschüss|auf wiedersehen|bis bald)",
     ["Tschüss!",
     "Auf Wiedersehen!",
-    "Bis bald!"]]
+    "Bis bald!"]], 
 
 ]
