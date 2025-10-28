@@ -13,4 +13,18 @@ psychobabble = [
     "Würde {0} dir denn wirklich helfen?",
     "Bist du sicher, dass du {0} brauchst?"]],
 
+    [r"(mir geht es|ich fühle mich) (.*)",
+     ["Warum fühlst du dich {1}?",
+      "geh zum Psychologen damit du dich nicht mehr {1} fühlst"]],
+
+    [r"(wie ist das wetter)",
+     ["wechselhaft", 
+     "sonnig", 
+     "regnerisch"]],
+
+     [r"mein Name ist (.*)",
+      ["freut mich dich kennenzulernen, {0}",
+       "{0} ist aber ein cooler Name",
+       "{0}?! Du schuldest mir Geld!!"]]
+
 ]
