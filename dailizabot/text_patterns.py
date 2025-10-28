@@ -13,4 +13,9 @@ psychobabble = [
     "Würde {0} dir denn wirklich helfen?",
     "Bist du sicher, dass du {0} brauchst?"]],
 
+    [r"was hältst du von (.*)\??",
+    ["Was genau interessiert dich an {0}?",
+    "Warum willst du meine Meinung zu {0} wissen?",
+    "Findest du {0} denn spannend?"]],
+
 ]
