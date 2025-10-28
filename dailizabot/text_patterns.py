@@ -13,4 +13,8 @@ psychobabble = [
     "Würde {0} dir denn wirklich helfen?",
     "Bist du sicher, dass du {0} brauchst?"]],
 
+    [r"(?i)\b(du\s+bist\s+(doof|idiot|langsam|dumm|bescheuert|Opfer))\b",
+     ["Aua, das tut mir Leid. Kannst du mir das genauer erklären?",
+      "Ich gebe mein Bestes :()",
+      "Oh, das ist aber gemein! Vielleicht hab ich's falsch verstanden."   ]],
 ]
