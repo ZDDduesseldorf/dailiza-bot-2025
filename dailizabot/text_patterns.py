@@ -12,5 +12,8 @@ psychobabble = [
     ["Warum brauchst du {0}?",
     "Würde {0} dir denn wirklich helfen?",
     "Bist du sicher, dass du {0} brauchst?"]],
-
+    
+    [r"hallo|hey|hi",
+    ["Hallo! Wie kann ich dir helfen?",
+     "Guten Tag! Was führt dich zu mir?"]]
 ]
