@@ -18,4 +18,8 @@ psychobabble = [
     "Warum willst du meine Meinung zu {0} wissen?",
     "Findest du {0} denn spannend?"]],
 
+    [r"(immer|nie|ständig) passiert mir (.*)",
+    ["Wieso glaubst du, dass dir das {1} {0} passiert?",
+    "Gibt es einen Grund, warum das immer wieder vorkommt?",
+    "Wie fühlst du dich dabei, dass dir das {0} passiert?"]],
 ]
