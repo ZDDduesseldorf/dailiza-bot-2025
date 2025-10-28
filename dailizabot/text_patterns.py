@@ -13,4 +13,19 @@ psychobabble = [
     "Würde {0} dir denn wirklich helfen?",
     "Bist du sicher, dass du {0} brauchst?"]],
 
+    [r"^(hallo|hey|hi|servus|moin|guten (?:morgen|tag|abend))\b",
+     ["Hallo! Wie kann ich dir helfen?",
+      "Hey! Was gibt’s?",
+      "Hi! Womit kann ich dich unterstützen?"]],
+
+    [r"\bich (?:bin|fühle mich) (.*)",
+     ["Warum fühlst du dich {0}?",
+      "Seit wann bist du {0}?",
+      "Was glaubst du, macht dich {0}?"]],
+
+    [r"\bweil (.+)",
+     ["Verstehe—weil {0}. Was bedeutet das konkret für dich?",
+      "Wenn es {0} ist, wie gehst du damit um?",
+      "weil {0}? Erzähl mir mehr darüber."]],
+
 ]
