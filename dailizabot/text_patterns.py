@@ -3,7 +3,7 @@ Here we collect the chatbot text patterns.
 """
 
 psychobabble = [
-    [r"geht.{0,5}s.{0,5}dir",
+    [r"wie geht.{0,5}s.{0,5}dir",
     ["Danke. Mir geht es gut und dir?",
     "Sehr gut, danke. Und wie läuft's bei dir?",
     "Ich kann nicht klagen. Was ist mit dir?"]],
@@ -12,5 +12,11 @@ psychobabble = [
     ["Warum brauchst du {0}?",
     "Würde {0} dir denn wirklich helfen?",
     "Bist du sicher, dass du {0} brauchst?"]],
-
+    
+    [r"(?i)\b(lästern|er|sie)\b",
+     ["Worüber willst du lästern?",
+      "Was ist passiert?",
+      "Spill the tea!"]]
+    
 ]
+
