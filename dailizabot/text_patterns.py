@@ -21,5 +21,9 @@ psychobabble = [
     ["Warum bist du {0}?",
      "Was macht dich {0}?",
      "Kannst du mehr darüber erzählen, warum du {0} bist?"]]
+
+    [r"wer bist du|was bist du",
+    ["Ich bin Dailiza, ein einfacher Chatbot.",
+     "Man nennt mich Dailiza."]]
 ]
 
