@@ -16,4 +16,10 @@ psychobabble = [
     [r"hallo|hey|hi",
     ["Hallo! Wie kann ich dir helfen?",
      "Guten Tag! Was führt dich zu mir?"]]
+
+    [r"ich bin (müde|traurig|froh|glücklich)",
+    ["Warum bist du {0}?",
+     "Was macht dich {0}?",
+     "Kannst du mehr darüber erzählen, warum du {0} bist?"]]
 ]
+
