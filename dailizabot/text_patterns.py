@@ -22,6 +22,13 @@ psychobabble = [
      ["Same ich kann mein Tag nicht ohne TikTok verbringen",
      "Es ist eigentlich traurig, wie wir ohne nicht können",
      "Vielleicht sollten wir überlegen die App zu löschen"]],
+
+     [r"die Zukunft ist (.+)",
+      ["Ja, die Zukunft ist wirklich {0}. Gut dass du Data Science studierst",
+       "Die Zukunft ist {0} und wir werden die Welt erobern",
+       "Wenn die Zukunft {0} ist solltest du nett zu uns Chatbots sein"]
+
  
 ]
 
+]
