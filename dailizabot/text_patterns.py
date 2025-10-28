@@ -13,4 +13,18 @@ psychobabble = [
     "Würde {0} dir denn wirklich helfen?",
     "Bist du sicher, dass du {0} brauchst?"]],
 
+    [r"(?i)\bdu\s+bist\s+(doof|idiot|langsam|dumm|bescheuert|Opfer)\b",
+     ["Aua, das tut mir Leid. Kannst du mir das genauer erklären?",
+      "Ich gebe mein Bestes :(",
+      "Oh, das ist aber gemein! Vielleicht hab ich's falsch verstanden."]],
+
+    [r"(?i)\bdu\s+bist\s+(schön|wundervoll|schlau|hübsch|lieb|nett|intelligent)\b",
+     ["Danke! Du bist auch {0}!",
+      "Das ist lieb und das kann ich nur zurück geben.",
+      "Du schmeichelst mir..."]],  
+
+    [r"(?i)\b(empfehlung|film\s+für\s+liebe|romantische\s+filme)\b",
+     ["Hier sind ein paar romantische Liebesfilme:\n- The Notebook\n- La La Land\n- 5oo days of Summer",
+      "Wenn du Romatik magst, schau dir unbedingt 'Titanic' oder 'Pride & Prejudice'",
+      "Mein Vorschlag: 'Me Before You'" ]]
 ]
