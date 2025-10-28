@@ -13,4 +13,10 @@ psychobabble = [
     "Würde {0} dir denn wirklich helfen?",
     "Bist du sicher, dass du {0} brauchst?"]],
 
+    [r"ich muss (.+) lernen",
+     ["Oh oh, {0} das kenn ich. Viel Erfolg",
+      "{0} zu lernen ist nie leicht",
+      "Ich hoffe, du bestehst {0} mit 1,0"]]
+ 
 ]
+
