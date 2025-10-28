@@ -22,4 +22,9 @@ psychobabble = [
     ["Wieso glaubst du, dass dir das {1} {0} passiert?",
     "Gibt es einen Grund, warum das immer wieder vorkommt?",
     "Wie fühlst du dich dabei, dass dir das {0} passiert?"]],
+
+    [r"ich verstehe das nicht(.*)",
+    ["Kannst du genauer sagen, was daran unklar ist?",
+    "Was genau würdest du gerne verstehen?",
+    "Welche Aspekte sind für dich besonders verwirrend?"]],
 ]
