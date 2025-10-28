@@ -13,10 +13,20 @@ psychobabble = [
     "Würde {0} dir denn wirklich helfen?",
     "Bist du sicher, dass du {0} brauchst?"]],
     
-    [r"(?i)\b(lästern|er|sie)\b",
-     ["Worüber willst du lästern?",
+    [r"(?i)\b(lästern|gelästert|beef|geredet)\b",
+     ["Oh hört sich echt interessant! Erzähl mir mehr.",
       "Was ist passiert?",
-      "Spill the tea!"]]
+      "Spill the tea!"]],
     
+    [r"Ich fühle mich(.*)",
+     ["Was beschäftigt dich?",
+      "Willst du darüber reden, was stresst dich gerade?",
+      "Warum fühlst du dich {0}?"]],
+
+    [r"(?i)\b(langweile|faul|chillen|kein bock)\b",
+     ["Soll ich dir ein Witz erzählen?",
+      "Geh mal putzen lieber, du faule Kartoffel.",
+      "Mach dir einen guten und chill weiter."]]
+
 ]
 
