@@ -12,5 +12,22 @@ psychobabble = [
     ["Warum brauchst du {0}?",
     "Würde {0} dir denn wirklich helfen?",
     "Bist du sicher, dass du {0} brauchst?"]],
+    
+    [r"Magst du (.*)\?",
+    ["Ja, ich liebe {0}!",
+     "Bahhhh ich hasse {0}!",
+     "Was ist {0}?"]],
+    
+    [r"(?i)wird [a-z]* Wetter",
+     ["Es wird sonnig.",
+      "Es wird wolkig.",
+      "Es wird regnerisch.",
+      "Es wird stürmisch."]],
+    
+    [r"[m,M]ir (?:geht(s|'s| es)) (auch )?gut",
+     ["Das ist schön.",
+     "Das freut mich zu hören.",
+     "Fantastisch!"]]
+    
 
 ]
