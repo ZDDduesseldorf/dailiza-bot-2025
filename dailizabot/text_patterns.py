@@ -16,7 +16,12 @@ psychobabble = [
     [r"ich muss (.+) lernen",
      ["Oh oh, {0} das kenn ich. Viel Erfolg",
       "{0} zu lernen ist nie leicht",
-      "Ich hoffe, du bestehst {0} mit 1,0"]]
+      "Ich hoffe, du bestehst {0} mit 1,0"]],
+
+    [r"ich bin süchtig nach tiktok",
+     ["Same ich kann mein Tag nicht ohne TikTok verbringen",
+     "Es ist eigentlich traurig, wie wir ohne nicht können",
+     "Vielleicht sollten wir überlegen die App zu löschen"]],
  
 ]
 
