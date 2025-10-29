@@ -13,4 +13,9 @@ psychobabble = [
     "Würde {0} dir denn wirklich helfen?",
     "Bist du sicher, dass du {0} brauchst?"]],
 
+    [r"kannst du mir (helfen|beistehen)\b(.*)",
+     ["Natürlich worum geht es genau ?",
+      "Ja, ich helfe dir gerne.Wobei benötigst du hilfe?",
+      "Erzähle murz was los ist, dann schauen wir gemeinsam weiter."]]
+
 ]
