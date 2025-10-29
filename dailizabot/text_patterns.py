@@ -13,4 +13,10 @@ psychobabble = [
     "Würde {0} dir denn wirklich helfen?",
     "Bist du sicher, dass du {0} brauchst?"]],
 
+    [r"ich fühle (.*)",
+    ["Oh nein! Das tut mir leid zu hören. Möchtest du mir mehr darüber erzählen?"
+     "Das klingt wirklich unangenehm. Wie lange hast du das schon?",
+     "Hast du schon versucht, einen Arzt aufzusuchen?", ]]
+
 ]
+
