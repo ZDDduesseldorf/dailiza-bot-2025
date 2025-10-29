@@ -13,4 +13,9 @@ psychobabble = [
     "Würde {0} dir denn wirklich helfen?",
     "Bist du sicher, dass du {0} brauchst?"]],
 
+    [r"Wie ist das Wetter", 
+     ["Es ist sonnig!",
+     "Es ist regnerisch!",
+     "Es ist windig!"]]
+
 ]
