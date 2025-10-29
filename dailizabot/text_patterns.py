@@ -13,4 +13,18 @@ psychobabble = [
     "Würde {0} dir denn wirklich helfen?",
     "Bist du sicher, dass du {0} brauchst?"]],
 
+    [r"wie (heisst|heißt) du", 
+    ["Ich bin Dailiza, ein einfacher Chatbot.",
+     "Man nennt mich Dailiza."]]
+
+    [r"ich fühle mich (.*)",
+    ["`Warum fühlst du dich {0}?",
+    "Wie lange fühlst du dich schon {0}?",
+    "Erz`ähl mir mehr darüber, dass du dich {0} fühlst."]]
+
+    [r"(tschüss|auf wiedersehen|bis bald)",
+    ["Tschüss!",
+    "Bis bald!",
+    "Auf Wiedersehen! Gib 'exit' ein, um das Programm zu beenden."]]
+
 ]
