@@ -20,6 +20,11 @@ psychobabble = [
     [r"Ich würde gerne (.*) in Zukunft werden",
      ["Warum möchtest du {0} werden?", 
       "Weißt du, was du studieren musst, um {0} zu werden?",
-      "{0} zu sein ist bestimmt sehr toll!"]]
+      "{0} zu sein ist bestimmt sehr toll!"]], 
+
+    [r"Mein (.*) ist (.*).",
+     ["Wieso ist dein {0} {1}?",
+      "Warum ist dein {0} {1} geworden?",
+      "Echt? Ist dein {0} wirklich {1}?"]]
 
 ]
