@@ -21,6 +21,10 @@ psychobabble = [
     [r"(ich fühle mich|ich bin )(traurig|allein|schlecht gelaunt)\b(.*)",
      ["Danke, dass du das mit mir teilst.Was ist denn los ?",
       "Das klingt nicht so schön. Möchtest du mit mir darüber reden ?",
-      "Jeder hat mal solche Tage, magst du mir mehr erzählen?"]]
+      "Jeder hat mal solche Tage, magst du mir mehr erzählen?"]],
+    [r"\b(dankeschön|thanks|vielen dank|danke)\b(.*)",
+     ["Gern geschehen!",
+      "Nichts zu danken, ich helfe gerne",
+      "Freut mich, dass ich helfen konnte"]]
 
 ]
