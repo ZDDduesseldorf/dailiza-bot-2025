@@ -24,8 +24,9 @@ psychobabble = [
      "{0} kann ich nicht"]],
 
     [r"bist du ([^?.!]+)",
-    ["ICH BIN KEIN {0}!",
+    ["Ich bin nicht {0}!",
     "Was ist {0}?",
-    "Ich denke, dass ich kein {0} bin."]]
+    "Ich denke, dass ich nicht {0} bin."]]
+
 
 ]
