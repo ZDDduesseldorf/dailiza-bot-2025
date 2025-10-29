@@ -18,4 +18,10 @@ psychobabble = [
      "Es ist regnerisch!",
      "Es ist windig!"]]
 
+    [r"Kannst du (.*)", 
+     ["Nein, {0} kann ich leider nicht.",
+     "Hmm... Ich denke ich kann {0} nicht.",
+     "{0} kann ich nicht"]]
+
+    
 ]
