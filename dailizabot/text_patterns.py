@@ -22,6 +22,13 @@ psychobabble = [
     ["Wow, du willst deinen {1} verändern?", 
     "Das klingt spannend! Was genau möchtest du ändern?",
     "Hast du schon Pläne, wie du deinen {1} ändern willst?",
-    "Ich finde es toll, dass du an dir arbeiten möchtest",]]
+    "Ich finde es toll, dass du an dir arbeiten möchtest",]],
+
+    [r"ich liebe (.*)",
+    ["Ich liebe auch Autos! Welches Modell fährst du?",
+    ",ich bin auch ein großer Fan von {0}, was magst du am meisten dran?",
+    "das ist toll! Was macht {0} für dich so besonders?"]],
+
+
 ]
 
