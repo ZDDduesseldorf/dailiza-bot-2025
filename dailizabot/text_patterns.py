@@ -13,4 +13,8 @@ psychobabble = [
     "Würde {0} dir denn wirklich helfen?",
     "Bist du sicher, dass du {0} brauchst?"]],
 
+    [r"(Servus|Grüß dich|Guten Morgen|Guten Tag|Hi|Hallo|Gutan Abend)",
+     ["Hallo, wie kann ich dir helfen?", "Servus, brauchst du meine Hilfe?",
+      "Ich hoffe, es geht dir gut. Bin bereit dir zu helfen..."]]
+
 ]
