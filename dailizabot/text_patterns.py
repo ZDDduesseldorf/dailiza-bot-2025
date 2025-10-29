@@ -15,6 +15,11 @@ psychobabble = [
 
     [r"(Servus|Grüß dich|Guten Morgen|Guten Tag|Hi|Hallo|Gutan Abend)",
      ["Hallo, wie kann ich dir helfen?", "Servus, brauchst du meine Hilfe?",
-      "Ich hoffe, es geht dir gut. Bin bereit dir zu helfen..."]]
+      "Ich hoffe, es geht dir gut. Bin bereit dir zu helfen..."]],
+
+    [r"Ich würde gerne (.*) in Zukunft werden",
+     ["Warum möchtest du {0} werden?", 
+      "Weißt du, was du studieren musst, um {0} zu werden?",
+      "{0} zu sein ist bestimmt sehr toll!"]]
 
 ]
