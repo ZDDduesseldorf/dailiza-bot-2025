@@ -16,12 +16,16 @@ psychobabble = [
     [r"Wie ist das Wetter", 
      ["Es ist sonnig!",
      "Es ist regnerisch!",
-     "Es ist windig!"]]
+     "Es ist windig!"]],
 
-    [r"Kannst du (.*)", 
+    [r"Kannst du ([^?.!]+)", 
      ["Nein, {0} kann ich leider nicht.",
      "Hmm... Ich denke ich kann {0} nicht.",
-     "{0} kann ich nicht"]]
+     "{0} kann ich nicht"]],
 
-    
+    [r"bist du ([^?.!]+)",
+    ["ICH BIN KEIN {0}!",
+    "Was ist {0}?",
+    "Ich denke, dass ich kein {0} bin."]]
+
 ]
