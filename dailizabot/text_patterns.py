@@ -23,4 +23,9 @@ psychobabble = [
     "Findest du, dass es gut ist, {0} zu sein?",
     "Wie ist das Gefühl, dass du {0} bist?"]],
 
+    [r"Bist du (.*)\?",
+     ["Warum fragst du, ob ich {0} bin?",
+      "Ja! Ich bin natürlich {0}.",
+      "Auf keinen Fall bin ich {0}."]]
+
 ]
