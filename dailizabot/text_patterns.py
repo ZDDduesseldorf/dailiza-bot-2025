@@ -18,4 +18,9 @@ psychobabble = [
     "Hast du dich immer so gefühlt?",
     "Was denkst du, warum du dich {0} fühlst?"]],
 
+    [r"Ich bin (.*)",
+    ["Seit wann bist du {0}?",
+    "Findest du, dass es gut ist, {0} zu sein?",
+    "Wie ist das Gefühl, dass du {0} bist?"]],
+
 ]
