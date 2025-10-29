@@ -13,4 +13,20 @@ psychobabble = [
     "Würde {0} dir denn wirklich helfen?",
     "Bist du sicher, dass du {0} brauchst?"]],
 
+    [r"Wie ist das Wetter", 
+     ["Es ist sonnig!",
+     "Es ist regnerisch!",
+     "Es ist windig!"]],
+
+    [r"Kannst du ([^?.!]+)", 
+     ["Nein, {0} kann ich leider nicht.",
+     "Hmm... Ich denke ich kann {0} nicht.",
+     "{0} kann ich nicht"]],
+
+    [r"bist du ([^?.!]+)",
+    ["Ich bin nicht {0}!",
+    "Was ist {0}?",
+    "Ich denke, dass ich nicht {0} bin."]]
+
+
 ]
