@@ -13,4 +13,18 @@ psychobabble = [
     "Würde {0} dir denn wirklich helfen?",
     "Bist du sicher, dass du {0} brauchst?"]],
 
+    [r"kannst du mir (helfen|beistehen)\b(.*)",
+     ["Natürlich worum geht es genau ?",
+      "Ja, ich helfe dir gerne.Wobei benötigst du hilfe?",
+      "Erzähle murz was los ist, dann schauen wir gemeinsam weiter."]],
+
+    [r"(ich fühle mich|ich bin )(traurig|allein|schlecht gelaunt)\b(.*)",
+     ["Danke, dass du das mit mir teilst.Was ist denn los ?",
+      "Das klingt nicht so schön. Möchtest du mit mir darüber reden ?",
+      "Jeder hat mal solche Tage, magst du mir mehr erzählen?"]],
+    [r"\b(dankeschön|thanks|vielen dank|danke)\b(.*)",
+     ["Gern geschehen!",
+      "Nichts zu danken, ich helfe gerne",
+      "Freut mich, dass ich helfen konnte"]]
+
 ]
