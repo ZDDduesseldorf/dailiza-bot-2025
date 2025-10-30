@@ -12,5 +12,9 @@ psychobabble = [
     ["Warum brauchst du {0}?",
     "Würde {0} dir denn wirklich helfen?",
     "Bist du sicher, dass du {0} brauchst?"]],
-
+    
+    [r"Ich fühle mich (.*)",
+    ["Warum fühlst du dich {0}?",
+    "Was denkst du, hat dazu geführt, dass du dich {0} fühlst?",
+    "Wie lange fühlst du dich schon {0}?"]],
 ]
