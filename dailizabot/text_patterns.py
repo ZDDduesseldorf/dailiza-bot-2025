@@ -22,5 +22,10 @@ psychobabble = [
      ["Das klingt anstrengend. Möchtest du darüber reden?",
       "Stress kann sich echt auf Körper und Geist auswirken.",
       "Manchmal hilft es, kurz durchzuatmen."]],
+      # Neues Muster 3
+    [r"(.*)müde(.*)",
+     ["Vielleicht brauchst du etwas Ruhe?",
+      "Müdigkeit ist oft ein Zeichen, dass du Pause brauchst.",
+      "Wie hast du letzte Nacht geschlafen?"]],
 
 ]
