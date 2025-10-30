@@ -22,4 +22,9 @@ psychobabble = [
     ["Danke. Mein Tag war gut",
     "Sehr gut, danke. Und wie war dein Tag bei dir",
     "Ich kann nicht klagen. Es er war gut"]],
+
+    [r"\bnein\b",
+    ["ok",
+    "Verstehe, kann ich dir anders wie helfen",
+    "Gibt es noch etwas das du brauchst?"]],
 ]
