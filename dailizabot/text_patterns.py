@@ -14,8 +14,15 @@ psychobabble = [
     "Bist du sicher, dass du {0} brauchst?"]],
     
     [r"(?:wie.{0,8}(?:ist|wird).{0,8}das.{0,3}wetter(?:.{0,12}(?:heute|morgen|übermorgen))?)",
-     ["Ich denke, das Wetter wird ganz okay.",
-      "Scheint wechselhaft zu werden.",
-      "Sieht gut aus – zumindest im Moment."]]   
+    ["Ich denke, das Wetter wird ganz okay.",
+    "Scheint wechselhaft zu werden.",
+    "Sieht gut aus – zumindest im Moment."]],
+    
+    [r"(?:wie\s+spät\s*(?:ist\s*es)?|uhrzeit|welche\s+zeit\s*(?:ist\s*es)?)",
+    ["Ich habe leider keine Uhr, aber gefühlt ist es immer Zeit für einen Kaffee.",
+    "Die genaue Uhrzeit weiß ich nicht, aber es ist bestimmt später, als du denkst.",
+    "Zeit ist relativ und eine Frage der Einstellung."]],
+    
+
 
 ]
