@@ -17,4 +17,9 @@ psychobabble = [
     ["Ja {0}. ist wahr",
     "Nein {0}, ist nicht wahr",
     "Bist du sicher, dass du das wissen willst?"]],
+
+    [r"wie\s+(war|ist).*tag",
+    ["Danke. Mein Tag war gut",
+    "Sehr gut, danke. Und wie war dein Tag bei dir",
+    "Ich kann nicht klagen. Es er war gut"]],
 ]
