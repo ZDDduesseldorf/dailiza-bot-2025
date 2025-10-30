@@ -26,7 +26,7 @@ psychobabble = [
     [r"Ich habe keine Lust auf (.*)",
     ["Das ist okay, das hat jeder mal",
     "Dann mach mal eine Pause und lass es diesmal sein",
-    "Warum hast du keine Lust auf {0}"]]
+    "Warum hast du keine Lust auf {0}"]] 
 
 
 ]
