@@ -21,6 +21,11 @@ psychobabble = [
     [r"Wo finde ich eine Anleitung zum Thema (.*)",
     ["Zu dem Thema {0} gibt es bestimmt ein passendes YouTube Video !",
      "Bei dem Thema {0} kann Chatgbt dir auch gut weiterhelfen !",
-     "Vielleicht können Freunde, Familie oder auch deine professoren dir bei dem Thema {0} Helfen"]]
+     "Vielleicht können Freunde, Familie oder auch deine professoren dir bei dem Thema {0} Helfen"]],
+
+    [r"Sind (.*) Stunden schlaf Ausreichend",
+    ["Das kann ich dir so pauschal nicht sagen.",
+     "{0} Stunden Schlaf hört sich gesund an.",
+     "Mit {0} Stunden schlaf würde ich meinen tag nicht überstehen ;)."]]
 
 ]
