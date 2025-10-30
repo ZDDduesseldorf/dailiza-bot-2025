@@ -16,6 +16,11 @@ psychobabble = [
     [r"kannst du mir bei (.*) helfen",
     ["Sehr gerne helfe ich dir bei {0} !",
      "Wo genau benötigst du bei {0} hilfe ?",
-     "Chatgbt kann dir im Notfall auch bei {0} helfen !"]]
+     "Chatgbt kann dir im Notfall auch bei {0} helfen !"]],
+
+    [r"Wo finde ich eine Anleitung zum Thema (.*)",
+    ["Zu dem Thema {0} gibt es bestimmt ein passendes YouTube Video !",
+     "Bei dem Thema {0} kann Chatgbt dir auch gut weiterhelfen !",
+     "Vielleicht können Freunde, Familie oder auch deine professoren dir bei dem Thema {0} Helfen"]]
 
 ]
