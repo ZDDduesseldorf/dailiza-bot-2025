@@ -27,4 +27,9 @@ psychobabble = [
     ["ok",
     "Verstehe, kann ich dir anders wie helfen",
     "Gibt es noch etwas das du brauchst?"]],
+
+    [r"\bja\b",
+    ["Schön",
+    "Das freut mich",
+    "Bist du sicher, dass du es wirklich brauchst?"]],
 ]
