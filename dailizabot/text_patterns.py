@@ -13,4 +13,19 @@ psychobabble = [
     "Würde {0} dir denn wirklich helfen?",
     "Bist du sicher, dass du {0} brauchst?"]],
 
+    [r"kannst du mir bei (.*) helfen",
+    ["Sehr gerne helfe ich dir bei {0} !",
+     "Wo genau benötigst du bei {0} hilfe ?",
+     "Chatgbt kann dir im Notfall auch bei {0} helfen !"]],
+
+    [r"Wo finde ich eine Anleitung zum Thema (.*)",
+    ["Zu dem Thema {0} gibt es bestimmt ein passendes YouTube Video !",
+     "Bei dem Thema {0} kann Chatgbt dir auch gut weiterhelfen !",
+     "Vielleicht können Freunde, Familie oder auch deine professoren dir bei dem Thema {0} Helfen"]],
+
+    [r"Sind (.*) Stunden schlaf Ausreichend",
+    ["Das kann ich dir so pauschal nicht sagen.",
+     "{0} Stunden Schlaf hört sich gesund an.",
+     "Mit {0} Stunden schlaf würde ich meinen tag nicht überstehen ;)."]]
+
 ]
