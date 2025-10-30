@@ -13,4 +13,8 @@ psychobabble = [
     "Würde {0} dir denn wirklich helfen?",
     "Bist du sicher, dass du {0} brauchst?"]],
 
+    [r"ist es wahr (.*)",
+    ["Ja {0}. ist wahr",
+    "Nein {0}, ist nicht wahr",
+    "Bist du sicher, dass du das wissen willst?"]],
 ]
