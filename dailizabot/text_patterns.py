@@ -17,5 +17,10 @@ psychobabble = [
      ["Ich habe kein Fenster, aber ich hoffe, es ist schön draußen!",
       "Das Wetter beeinflusst wirklich unsere Stimmung, oder?",
       "Wie ist es bei dir – Sonne oder Regen?"]],
+     # Neues Muster 2
+    [r"(.*)stress(.*)",
+     ["Das klingt anstrengend. Möchtest du darüber reden?",
+      "Stress kann sich echt auf Körper und Geist auswirken.",
+      "Manchmal hilft es, kurz durchzuatmen."]],
 
 ]
