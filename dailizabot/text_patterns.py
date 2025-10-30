@@ -20,13 +20,13 @@ psychobabble = [
 
     [r"meine Lieblingsfarbe ist (.*)",
     ["{0} ist wirklich eine tolle Farbe!",
-    "Ich mag {0} auch sehr gerne",
+    "Ich mag {0} auch sehr gerne.",
     "Mir geht es nicht so, ich mag die Farbe {0} nicht so gerne."]],
 
     [r"Ich habe keine Lust auf (.*)",
-    ["Das ist okay, das hat jeder mal",
-    "Dann mach mal eine Pause und lass es diesmal sein",
-    "Warum hast du keine Lust auf {0}"]] 
+    ["Das ist okay, das hat jeder mal.",
+    "Dann mach mal eine Pause und lass es diesmal sein.",
+    "Warum hast du keine Lust auf {0}?"]] 
 
 
 ]
