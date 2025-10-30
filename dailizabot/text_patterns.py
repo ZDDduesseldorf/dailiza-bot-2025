@@ -21,5 +21,10 @@ psychobabble = [
     [r"(?:Ich denke|Ich glaube) (.*)",
     ["Warum denkst du, dass {0}?",
     "Was hat dich zu dieser Überzeugung gebracht, dass {0}?",
-    "Könnte es auch sein, dass ,{0} nicht ganz stimmt?"]]
+    "Könnte es auch sein, dass ,{0} nicht ganz stimmt?"]],
+
+    [r"Ich habe (.*) gemacht",
+    ["Was hat dich dazu gebracht, {0} zu machen?",
+    "Und wie fühlst du dich jetzt, nachdem du {0} gemacht hast?",
+    "Glaubst du, es war die richtige Entscheidung, {0} zu machen?"]]
 ]
