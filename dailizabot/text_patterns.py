@@ -23,6 +23,9 @@ psychobabble = [
     "Die genaue Uhrzeit weiß ich nicht, aber es ist bestimmt später, als du denkst.",
     "Zeit ist relativ und eine Frage der Einstellung."]],
     
-
+    [r"(?:welche\s+)?(?:phase|mondphase)(?:.{0,10}(?:ist|gerade|heute))?|vollmond|neumond|halbmond|zunehmender\s+mond|abnehmender\s+mond",
+    ["Ich glaube, der Mond sieht heute besonders voll aus.",
+    "Es könnte bald eine Mondfinsternis anstehen!",
+    "Die Sterne sagen: Der Mond hat heute frei."]],
 
 ]
