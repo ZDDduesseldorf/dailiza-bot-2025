@@ -18,4 +18,9 @@ psychobabble = [
      "Interessant, du glaubst also an {0}.",
      "Seit wann weißt du, dass du {0} glaubst?"]],
 
+    [r"Ich habe Angst vor (.*)",
+    ["Warum hast du Angst vor {0}?",
+    "Glaubst du, dass {0} gefährlich ist?",
+    "Was macht dir an {0} Angst?"]],
+
 ]
