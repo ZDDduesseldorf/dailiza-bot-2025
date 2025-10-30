@@ -12,5 +12,20 @@ psychobabble = [
     ["Warum brauchst du {0}?",
     "Würde {0} dir denn wirklich helfen?",
     "Bist du sicher, dass du {0} brauchst?"]],
+    # Neues Muster 1
+    [r"(.*)wetter(.*)",
+     ["Ich habe kein Fenster, aber ich hoffe, es ist schön draußen!",
+      "Das Wetter beeinflusst wirklich unsere Stimmung, oder?",
+      "Wie ist es bei dir – Sonne oder Regen?"]],
+     # Neues Muster 2
+    [r"(.*)stress(.*)",
+     ["Das klingt anstrengend. Möchtest du darüber reden?",
+      "Stress kann sich echt auf Körper und Geist auswirken.",
+      "Manchmal hilft es, kurz durchzuatmen."]],
+      # Neues Muster 3
+    [r"(.*)müde(.*)",
+     ["Vielleicht brauchst du etwas Ruhe?",
+      "Müdigkeit ist oft ein Zeichen, dass du Pause brauchst.",
+      "Wie hast du letzte Nacht geschlafen?"]],
 
 ]
