@@ -22,4 +22,9 @@ psychobabble = [
      ["Weshalb hast du keine Lust {0}?",
     "Manchmal kommt die Lust {0}, wenn man erstmal anfängt.",
     "Kannst du eventuell {0} in kleinen Schritten angehen?"]],
+
+    [r"Ich bin (traurig|müde|kaputt)",
+     ["Du klingst müde. Vielleicht brauchst du eine Pause.",
+    "Was hat dazu geführt, dass du dich so fühlst?",
+    "Was kann ich tun, damit es dir besser geht?"]]
 ]
