@@ -13,4 +13,19 @@ psychobabble = [
     "Würde {0} dir denn wirklich helfen?",
     "Bist du sicher, dass du {0} brauchst?"]],
 
+    [r"Ich glaube an (.*)",
+    ["Warum glaubst du an {0}?",
+     "Interessant, du glaubst also an {0}.",
+     "Seit wann weißt du, dass du {0} glaubst?"]],
+
+    [r"Ich habe Angst vor (.*)",
+    ["Warum hast du Angst vor {0}?",
+    "Glaubst du, dass {0} gefährlich ist?",
+    "Was macht dir an {0} Angst?"]],
+
+    [r"Ich mag (.*)",
+    ["Was magst du an {0} besonders?",
+    "Seit wann magst du {0}?",
+    "Viele mögen {0} auch, was macht es für dich besonders?"]],
+
 ]
