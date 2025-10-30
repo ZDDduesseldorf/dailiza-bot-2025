@@ -13,4 +13,18 @@ psychobabble = [
     "Würde {0} dir denn wirklich helfen?",
     "Bist du sicher, dass du {0} brauchst?"]],
 
+    [r"Warum bin ich (.*)\?",
+     ["Warum fragst du, ob du {0} bist",
+    "Nein, ich finde nicht, dass du {0} bist.",
+    "Ja, ich finde, dass du {0} bist."]],
+
+    [r"Ich habe keine Lust (.*)",
+     ["Weshalb hast du keine Lust {0}?",
+    "Manchmal kommt die Lust {0}, wenn man erstmal anfängt.",
+    "Kannst du eventuell {0} in kleinen Schritten angehen?"]],
+
+    [r"Ich bin (traurig|müde|kaputt)",
+     ["Du klingst müde. Vielleicht brauchst du eine Pause.",
+    "Was hat dazu geführt, dass du dich so fühlst?",
+    "Was kann ich tun, damit es dir besser geht?"]]
 ]
