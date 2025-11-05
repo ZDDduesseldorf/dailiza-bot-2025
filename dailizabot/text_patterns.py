@@ -13,4 +13,9 @@ psychobabble = [
     "Würde {0} dir denn wirklich helfen?",
     "Bist du sicher, dass du {0} brauchst?"]],
 
+    [r".*hilfe.*",
+    ["Klar, wie kann ich dir helfen?",
+    "Ich bin hier, um zu helfen. Was ist dein Anliegen?",
+    "Beschreibe dein Problem genauer."]],
+
 ]
