@@ -23,4 +23,7 @@ psychobabble = [
     "Mein Name ist Dailiza. Wie kann ich dir helfen?",
     "Ich bin Dailiza, immer für einen Chat bereit."]],
 
+    [r".*tschüss.*",
+    ["Mach's gut und bleib neugierig!"]],
+
 ]
