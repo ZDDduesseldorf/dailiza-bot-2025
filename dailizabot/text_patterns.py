@@ -18,4 +18,9 @@ psychobabble = [
     "Ich bin hier, um zu helfen. Was ist dein Anliegen?",
     "Beschreibe dein Problem genauer."]],
 
+    [r".*wer bist du.*",
+    ["Ich bin Dailiza, dein einfacher Chatbot.",
+    "Mein Name ist Dailiza. Wie kann ich dir helfen?",
+    "Ich bin Dailiza, immer für einen Chat bereit."]],
+
 ]
